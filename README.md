@@ -86,3 +86,17 @@ visit /hours
     ]
 }
 ```
+
+
+## Part 2
+
+### Opinion on Using JSON
+
+```
+IN my experience JSON has been the easiest means to transform data over the web or make data available to the frontend services, JSON is a good choice. However, I will modify how the data is modeled to make it easier to read. For example, a single object should carry both the opening and closing hours e.g
+{
+  "open": 3000, "close": 36000
+}
+
+That way it is less redundant
+```
