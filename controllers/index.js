@@ -1,4 +1,4 @@
-const mockData = require('../mockDB/hours.json')
+// const mockData = require('../mockDB/hours.json')
 const { format } = require('../helpers')
 
 exports.HoursController = async (req, res) => {

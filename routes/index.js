@@ -9,5 +9,5 @@ Router.get('/', (req, res) => {
   })
 })
 
-Router.get('/hours', HoursController)
+Router.post('/hours', HoursController)
 module.exports = Router
