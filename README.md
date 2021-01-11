@@ -98,5 +98,5 @@ IN my experience JSON has been the easiest means to transform data over the web 
   "open": 3000, "close": 36000
 }
 
-That way it is less redundant
+That way it is less redundant.
 ```
