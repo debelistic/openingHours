@@ -18,6 +18,10 @@ yarn dev
 yarn start
 ```
 
+### APP URL
+- Heroku - [Opening Hours](https://opening-hours-app.herokuapp.com/)
+
+
 ### Endpoints
 ```
 GET / - ROOT URL: responds with a Welcome message
